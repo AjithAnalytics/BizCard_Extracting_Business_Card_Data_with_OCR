@@ -1,8 +1,5 @@
 
 # BizCardX-Extracting_Business_Card_Data_with_OCR
-!(r'C:\pythan\DATA SCEINCE\BizcardX\download.jpg')
-
-
 ## project overview
 ```bash
  BizCardX is a user-friendly tool for extracting information from business cards. 
