@@ -1,5 +1,7 @@
 
 # BizCardX-Extracting_Business_Card_Data_with_OCR
+!(r'C:\pythan\DATA SCEINCE\BizcardX\download.jpg')
+
 
 ## project overview
 ```bash
